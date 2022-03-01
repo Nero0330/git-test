@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("dfhzlop");
         System.out.println("dfhz");
         System.out.println("hello.txt");
+        System.out.println("hello.txt test");
     }
 }
