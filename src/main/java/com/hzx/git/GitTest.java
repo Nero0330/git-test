@@ -8,6 +8,7 @@ package com.hzx.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hzxyyds");
+        System.out.println("dfhzlop");
         System.out.println("dfhz");
     }
 }
