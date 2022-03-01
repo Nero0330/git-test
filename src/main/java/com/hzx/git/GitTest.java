@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("xxds");
         System.out.println("yydi");
         System.out.println("yyip");
+        System.out.println("yyip pull");
     }
 }
